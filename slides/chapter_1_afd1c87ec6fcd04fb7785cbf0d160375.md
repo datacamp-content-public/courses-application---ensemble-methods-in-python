@@ -57,16 +57,17 @@ key: "c2d90d2414"
 `@part1`
 ![shutterstock_253684528.jpg](http://assets.datacamp.com/production/repositories/3910/datasets/63a78aa6054adae76c9b99965cc42dee2704d3e4/shutterstock_253684528.jpg){{1}}
 
+- **Categorical:** Mode {{2}}
+- **Numerical:**   Mean {{3}}
+
 
 `@part2`
-![2018-10-29_22-29-27.png](http://assets.datacamp.com/production/repositories/3910/datasets/26472b145c70f90a1a26ad2b86dcf7fe5c4eb64f/2018-10-29_22-29-27.png){{2}}
-
-- **Categorical:** Mode {{3}}
-- **Numerical:**   Mean {{4}}
+![2018-10-29_22-29-27.png](http://assets.datacamp.com/production/repositories/3910/datasets/26472b145c70f90a1a26ad2b86dcf7fe5c4eb64f/2018-10-29_22-29-27.png){{4}}
 
 
 `@script`
-Well, let's see an analogous case. When you apply a survey, you don't take only the best answers. Actually, you consider a combined response of all the participants. For the categorical variables, the mode is a good representation. And for the numerical variablep
+Well, let's see an analogous case. When you apply a survey, you don't take only the best answers. Actually, you consider a combined response of all the participants. For the categorical variables, the mode is a good representation. And for the numerical variables, the mean is good to go. Actually, these two metrics are the basis of Ensemble Methods.
+With our previous example, we could form a new model by combining the existing ones. In an ideal case, the combined model will have better performance than any of the individual models.
 
 
 ---
