@@ -33,11 +33,15 @@ key: "7c6b039180"
 `@part1`
 **Which model is the best?**
 
-![2018-10-29_21-25-00.png](http://assets.datacamp.com/production/repositories/3910/datasets/4e5edc4d6f461a21f54dd5dedf01f9767a89b2ee/2018-10-29_21-25-00.png){{1}}
+![2018-10-29_21-25-00.png](http://assets.datacamp.com/production/repositories/3910/datasets/348f0926077b1654f4ecedbc55de1d949291ca9c/2018-10-29_21-25-00.png){{1}}
+
+_Chosen "best" model: Decision Tree_ {{2}}
 
 
 `@script`
-When you're building a model, you want to choose the model that performs the best according to some evaluation metric. Maybe you have already tried some models and then you compare them based on some evaluation metric.
+When you're building a model, you want to choose the one that performs the best according to some evaluation metric. Maybe you have already tried some models and then you compare them based on its score.
+For instance, consider this example. Here we trained a Decision Tree, a Logistic Regression, and a K-Nearest Neighbors model. 
+If we choose the model based on its accuracy, then Decision Tree would be the best choice, right?
 
 
 ---
