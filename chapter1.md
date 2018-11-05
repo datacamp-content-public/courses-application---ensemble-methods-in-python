@@ -3,46 +3,6 @@ title: 'Chapter Title Here'
 description: 'Chapter description goes here.'
 ---
 
-## Example coding exercise
-
-```yaml
-type: NormalExercise
-key: e8c1edbe67
-lang: python
-xp: 100
-skills: 2
-```
-
-This is an example exercise.
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
-
----
-
 ## Intuitive Introduction to Ensemble Methods
 
 ```yaml
@@ -53,3 +13,16 @@ xp: 50
 
 `@projector_key`
 afd1c87ec6fcd04fb7785cbf0d160375
+
+---
+
+## Voting
+
+```yaml
+type: VideoExercise
+key: 3b3051750a
+xp: 50
+```
+
+`@projector_key`
+50e4433594a59ebf625955d98e82a7c3
